@@ -152,7 +152,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: [
             IconButton(
                 onPressed: () {},
-                icon: const Icon(Icons.search),
+                icon: const Icon(Icons.home),
                 color: Colors.white),
             IconButton(
                 onPressed: () {},
